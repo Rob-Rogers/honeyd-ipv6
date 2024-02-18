@@ -1,3 +1,14 @@
+Additions to this will be added to ensure honeypot log output format is in JSON format.
+As well as look over other parts of it, and modify them to be suitable for this project. 
+Rob Rogers 2024 - rob@ontariohighspeed.ca
+This readme will be updated to reflect upon the apropiate changes accordinly after they are completed and tested.
+
+Thank You
+
+
+
+
+
 Honeyd 1.5c
 Copyright (c) 2002 - 2007 Niels Provos <provos@citi.umich.edu>
 -------------------------------------------------------------------------
